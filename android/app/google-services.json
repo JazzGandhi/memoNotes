@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276415191358",
+    "firebase_url": "https://schedulnotes.firebaseio.com",
+    "project_id": "schedulnotes",
+    "storage_bucket": "schedulnotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276415191358:android:b2c16d87b42b1c0fe0746f",
+        "android_client_info": {
+          "package_name": "com.jbz.flutterrequirements"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276415191358-mtu8imthsn5pvirkl8asrd6e324n3937.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jbz.flutterrequirements",
+            "certificate_hash": "76f99d1d3222dde0ee98fda51bbfd82f2dddba88"
+          }
+        },
+        {
+          "client_id": "276415191358-nq5eu4fo4iarlifnmclo2s4p6ests923.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFuYMUYrpwHhriD1LcMkK2qf4gl_3_Rdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276415191358-nq5eu4fo4iarlifnmclo2s4p6ests923.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
